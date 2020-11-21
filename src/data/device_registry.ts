@@ -69,7 +69,7 @@ export const updateDeviceRegistryEntry = (
     ...updates,
   });
 
-const fetchDeviceRegistry = (conn) =>
+export const fetchDeviceRegistry = (conn) =>
   conn.sendMessagePromise({
     type: "config/device_registry/list",
   });
