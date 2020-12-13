@@ -615,7 +615,7 @@
                 }
             },
             "media-browser": {
-                "audio_not_supported": "Ihr Browser unterstützt das Audioelement nicht.",
+                "audio_not_supported": "Dein Browser unterstützt das Audioelement nicht.",
                 "choose_player": "Wähle ein Abspielgerät",
                 "choose-source": "Quelle wählen",
                 "class": {
@@ -656,13 +656,13 @@
                 "media-player-browser": "Medien-Browser",
                 "no_items": "Keine Einträge",
                 "no_local_media_found": "Keine lokalen Medien gefunden",
-                "no_media_folder": "Es sieht so aus, als hätten Sie noch kein Medienverzeichnis erstellt.",
+                "no_media_folder": "Es sieht so aus, als hättest du noch kein Medienverzeichnis erstellt.",
                 "pick": "Auswählen",
                 "pick-media": "Medien auswählen",
                 "play": "Abspielen",
                 "play-media": "Medien abspielen",
                 "setup_local_help": "Lese die {documentation} über die Einrichtung lokaler Medien.",
-                "video_not_supported": "Ihr Browser unterstützt das Videoelement nicht.",
+                "video_not_supported": "Dein Browser unterstützt das Videoelement nicht.",
                 "web-browser": "Webbrowser"
             },
             "picture-upload": {
@@ -834,7 +834,7 @@
                     "confirm_remove_title": "Entität entfernen?",
                     "not_provided": "Diese Entität ist derzeit nicht verfügbar und ist verwitwet für eine entfernte, geänderte oder gestörte Integration oder ein Gerät.",
                     "remove_action": "Entität entfernen",
-                    "remove_intro": "Wenn die Entität nicht mehr verwendet wird, können Sie sie bereinigen, indem Sie sie entfernen."
+                    "remove_intro": "Wenn die Entität nicht mehr verwendet wird, kannst du sie bereinigen, indem du sie entfernen."
                 },
                 "script": {
                     "last_action": "Letzte Aktion",
@@ -1048,9 +1048,9 @@
                         "create_area": "Bereich erstellen",
                         "header": "Bereiche",
                         "integrations_page": "Integrationsseite",
-                        "introduction": "In Bereichen wird festgelegt, wo sich Geräte befinden. Diese Informationen werden in Home Assistant verwendet, um Sie bei der Organisation Ihrer Benutzeroberfläche, Berechtigungen und Integrationen mit anderen Systemen zu unterstützen.",
+                        "introduction": "In Bereichen wird festgelegt, wo sich Geräte befinden. Diese Informationen werden in Home Assistant verwendet, um dich bei der Organisation deiner Benutzeroberfläche, Berechtigungen und Integrationen mit anderen Systemen zu unterstützen.",
                         "introduction2": "Um Geräte in einem Bereich zu platzieren, navigiere mit dem Link unten zur Integrationsseite und klicke dann auf eine konfigurierte Integration, um zu den Gerätekarten zu gelangen.",
-                        "no_areas": "Sieht aus, als hätten Sie noch keine Bereiche!"
+                        "no_areas": "Sieht aus, als hättest du noch keine Bereiche!"
                     }
                 },
                 "automation": {
@@ -1251,7 +1251,7 @@
                             "queued": "Länge der Warteschlange"
                         },
                         "modes": {
-                            "description": "Der Modus steuert, was passiert, wenn ein Skript aufgerufen wird, während es noch von einem oder mehreren vorherigen Aufrufen ausgeführt wird. Überprüfen Sie den {documentation_link} für weitere Informationen.",
+                            "description": "Der Modus steuert, was passiert, wenn ein Skript aufgerufen wird, während es noch von einem oder mehreren vorherigen Aufrufen ausgeführt wird. Überprüfe den {documentation_link} für weitere Informationen.",
                             "documentation": "Automatisierungs-Dokumentation",
                             "label": "Modus",
                             "parallel": "Parallel",
@@ -1363,7 +1363,7 @@
                             },
                             "unsupported_platform": "Nicht unterstützte Plattform: {platform}"
                         },
-                        "unsaved_confirm": "Sie haben ungespeicherte Änderungen. Sind Sie sicher, dass Sie den Editor verlassen möchten?"
+                        "unsaved_confirm": "Du hast ungespeicherte Änderungen. Bist du sicher, dass du den Editor verlassen möchtest?"
                     },
                     "picker": {
                         "add_automation": "Automatisierung hinzufügen",
@@ -1376,7 +1376,7 @@
                         "headers": {
                             "name": "Name"
                         },
-                        "introduction": "Mit dem Automations-Editor können Automatisierungen erstellt und bearbeitet werden. Bitte folgen Sie dem nachfolgenden Link, um die Anleitung zu lesen und um sicherzustellen, dass Sie Home Assistant richtig konfiguriert haben.",
+                        "introduction": "Mit dem Automations-Editor können Automatisierungen erstellt und bearbeitet werden. Bitte folge dem nachfolgenden Link, um die Anleitung zu lesen und um sicherzustellen, dass du Home Assistant richtig konfiguriert hast.",
                         "learn_more": "Erfahre mehr über Automatisierungen",
                         "no_automations": "Wir konnten keine editierbaren Automatisierungen finden",
                         "only_editable": "Nur Automatisierungen in automations.yaml sind editierbar.",
@@ -1438,7 +1438,7 @@
                             "enable": "aktiviert",
                             "enable_ha_skill": "Aktiviere den Home Assistant-Skill für Alexa",
                             "enable_state_reporting": "Statusberichterstattung aktivieren",
-                            "info": "Mit der Alexa-Integration für Home Assistant Cloud können Sie alle Ihre Home Assistant-Geräte über jedes Alexa-fähige Gerät steuern.",
+                            "info": "Mit der Alexa-Integration für Home Assistant Cloud kannst du alle deine Home Assistant-Geräte über jedes Alexa-fähige Gerät steuern.",
                             "info_state_reporting": "Wenn die Statusberichterstellung aktiviert wird, sendet Home Assistant alle Statusänderungen exponierter Entitäten an Amazon. So wird in der Alexa-App immer der neueste Status angezeigt.",
                             "manage_entities": "Entitäten verwalten",
                             "state_reporting_error": "Der Berichtsstatus kann nicht {enable_disable} werden.",
@@ -1456,7 +1456,7 @@
                             "enable_state_reporting": "Statusberichterstattung aktivieren",
                             "enter_pin_error": "PIN kann nicht gespeichert werden:",
                             "enter_pin_hint": "Gib eine PIN ein, um Sicherheitsgeräte zu verwenden",
-                            "enter_pin_info": "Bitte geben Sie eine PIN ein, um mit Sicherheitsgeräten zu interagieren. Sicherheitsgeräte sind Türen, Garagentore und Schlösser. Sie werden aufgefordert, diese PIN zu sagen/einzugeben, wenn Sie mit solchen Geräten über Google Assistant interagierst.",
+                            "enter_pin_info": "Bitte gib eine PIN ein, um mit Sicherheitsgeräten zu interagieren. Sicherheitsgeräte sind Türen, Garagentore und Schlösser. Du wirst aufgefordert, diese PIN zu sagen/einzugeben, wenn du mit solchen Geräten über Google Assistant interagierst.",
                             "info": "Mit der Google Assistant-Integration für Home Assistant Cloud kannst du alle deine Home Assistant-Geräte über jedes Google Assistant-fähige Gerät steuern.",
                             "info_state_reporting": "Wenn die Statusberichterstellung aktiviert wird, sendet Home Assistant alle Statusänderungen exponierter Entitäten an Google. So wird in der Google-App immer der neueste Status angezeigt.",
                             "manage_entities": "Entitäten verwalten",
@@ -1475,7 +1475,7 @@
                         "remote": {
                             "access_is_being_prepared": "Der Fernzugriff wird vorbereitet. Wir werden dich benachrichtigen, wenn alles fertig ist.",
                             "certificate_info": "Zertifikatsinformationen",
-                            "info": "Home Assistant Cloud bietet eine sichere Remote-Verbindung zu Ihrer Instanz, wenn Sie nicht zu Hause sind.",
+                            "info": "Home Assistant Cloud bietet eine sichere Remote-Verbindung zu deiner Instanz, wenn du nicht zu Hause bist.",
                             "instance_is_available": "Deine Instanz ist verfügbar unter",
                             "instance_will_be_available": "Deine Instanz wird verfügbar sein unter",
                             "link_learn_how_it_works": "Lerne, wie es funktioniert",
@@ -1535,7 +1535,7 @@
                         "check_your_email": "In deinen E-Mails findest du die Anweisungen zum Zurücksetzen deines Passworts.",
                         "email": "E-Mail",
                         "email_error_msg": "Ungültige E-Mail",
-                        "instructions": "Gib deine E-Mail-Adresse ein und wir senden dir einen Link zum Zurücksetzen Ihres Passworts.",
+                        "instructions": "Gib deine E-Mail-Adresse ein und wir senden dir einen Link zum Zurücksetzen deines Passworts.",
                         "send_reset_email": "Reset-E-Mail senden",
                         "subtitle": "Passwort vergessen",
                         "title": "Passwort vergessen"
@@ -1585,7 +1585,7 @@
                         "feature_webhook_apps": "Einfache Integration mit Webhook-basierten Apps wie OwnTracks",
                         "headline": "Testperiode starten",
                         "information": "Erstellen ein Konto, um eine kostenlose einmonatige Testperiode mit Home Assistant Cloud zu starten. Keine Zahlungsinformationen sind erforderlich.",
-                        "information2": "Die Testperiode gibt Ihnen Zugriff auf alle Vorteile von Home Assistant Cloud, einschließlich:",
+                        "information2": "Die Testperiode gibt dir Zugriff auf alle Vorteile von Home Assistant Cloud, einschließlich:",
                         "information3": "Dieser Service wird von unserem Partner betrieben. ",
                         "information3a": ", ein Unternehmen, das von den Gründern von Home Assistant und Hass.io gegründet wurde.",
                         "information4": "Durch die Registrierung eines Kontos erklärst du dich mit den folgenden Bedingungen einverstanden.",
@@ -1644,7 +1644,7 @@
                         "documentation": "Anpassungsdokumentation",
                         "entity": "Entität",
                         "header": "Anpassungen",
-                        "introduction": "Optimieren Sie die Entitätenattribute. Hinzugefügte/bearbeitete Anpassungen werden sofort wirksam. Entfernte Anpassungen werden wirksam, wenn die Entität aktualisiert wird."
+                        "introduction": "Optimiere die Entitätenattribute. Hinzugefügte/bearbeitete Anpassungen werden sofort wirksam. Entfernte Anpassungen werden wirksam, wenn die Entität aktualisiert wird."
                     },
                     "warning": {
                         "include_link": "binde customize.yaml ein",
@@ -1679,8 +1679,8 @@
                     "cant_edit": "Du kannst nur Elemente bearbeiten, die in der Benutzeroberfläche erstellt wurden.",
                     "caption": "Geräte",
                     "confirm_delete": "Möchtest du dieses Gerät wirklich löschen?",
-                    "confirm_rename_entity_ids": "Möchten Sie auch die Entitäts-IDs Ihrer Entitäten umbenennen?",
-                    "confirm_rename_entity_ids_warning": "Dies ändert keine Konfiguration (wie Automatisierungen, Skripte, Szenen, Dashboards), die derzeit diese Entitäten verwendet! Sie müssen sie selbst aktualisieren, um die neuen Entitäts-IDs zu verwenden!",
+                    "confirm_rename_entity_ids": "Möchtest du auch die Entitäts-IDs deiner Entitäten umbenennen?",
+                    "confirm_rename_entity_ids_warning": "Dies ändert keine Konfiguration (wie Automatisierungen, Skripte, Szenen, Dashboards), die derzeit diese Entitäten verwendet! Du musst sie selbst aktualisieren, um die neuen Entitäts-IDs zu verwenden!",
                     "data_table": {
                         "area": "Bereich",
                         "battery": "Batterie",
@@ -1763,7 +1763,7 @@
                             "status": "Status"
                         },
                         "introduction": "Home Assistant führt eine Registrierung aller Entitäten, die er je gesehen hat und die eindeutig identifiziert werden können. Jeder dieser Entitäten wird eine Entitäts-ID zugewiesen, die nur für diese Entität reserviert ist.",
-                        "introduction2": "Verwenden Sie die Entitätsregistrierung, um den Namen zu überschreiben, die Entität-ID zu ändern oder den Eintrag aus Home Assistant zu entfernen. Beachten Sie, dass das Entfernen des Entitätsregistrierungs-Eintrags die Entität nicht löscht. Folgen Sie dazu dem Link unten und entfernen Sie ihn in der Integrationsseite.",
+                        "introduction2": "Verwende die Entitätsregistrierung, um den Namen zu überschreiben, die Entität-ID zu ändern oder den Eintrag aus Home Assistant zu entfernen. Beachte, dass das Entfernen des Entitätsregistrierungs-Eintrags die Entität nicht löscht. Folge dazu dem Link unten und entferne ihn in der Integrationsseite.",
                         "remove_selected": {
                             "button": "Ausgewählte entfernen",
                             "confirm_partly_text": "Du kannst nur {removable} der ausgewählten {selected} Entitäten entfernen. Entitäten können nur entfernt werden, wenn die Integration die Entitäten nicht mehr bereitstellt. Manchmal musst du Home Assistant neu starten, bevor du die Entitäten einer entfernten Integration entfernen kannst. Möchtest du die entfernbaren Entitäten wirklich entfernen?",
@@ -1917,7 +1917,7 @@
                         "dismiss": "Dialog schließen",
                         "error_saving_area": "Fehler beim Speichern des Bereichs: {error}",
                         "external_step": {
-                            "description": "Für diesen Schritt müssen Sie eine externe Website besuchen, um den Vorgang abzuschließen.",
+                            "description": "Für diesen Schritt musst Du eine externe Website besuchen, um den Vorgang abzuschließen.",
                             "open_site": "Website öffnen"
                         },
                         "finish": "Fertig",
@@ -2109,14 +2109,14 @@
                     },
                     "network": {
                         "header": "Netzwerkverwaltung",
-                        "introduction": "Verwalten Sie netzwerkweite Funktionen.",
+                        "introduction": "Verwalte netzwerkweite Funktionen.",
                         "node_count": "{count} Knoten"
                     },
                     "node_config": {
                         "header": "Knotenkonfiguration",
                         "help_source": "Konfigurationsparameterbeschreibungen und Hilfetexte werden vom OpenZWave-Projekt bereitgestellt.",
-                        "introduction": "Verwalten Sie die verschiedenen Konfigurationsparameter für einen Z-Wave Knoten.",
-                        "wakeup_help": "Batteriebetriebene Knoten müssen wach sein, um ihre Konfiguration zu ändern. Wenn der Knoten nicht aktiv ist, versucht OpenZWave beim nächsten Aufwachen, die Konfiguration des Knotens zu aktualisieren. Dies kann mehrere Stunden (oder Tage) später sein. Führen Sie die folgenden Schritte aus, um Ihr Gerät zu aktivieren:"
+                        "introduction": "Verwalte die verschiedenen Konfigurationsparameter für einen Z-Wave Knoten.",
+                        "wakeup_help": "Batteriebetriebene Knoten müssen aktiv sein, um ihre Konfiguration zu ändern. Wenn der Knoten nicht aktiv ist, versucht OpenZWave beim nächsten Aufwachen, die Konfiguration des Knotens zu aktualisieren. Dies kann mehrere Stunden (oder Tage) später sein. Führe die folgenden Schritte aus, um dein Gerät zu aktivieren:"
                     },
                     "node_metadata": {
                         "product_manual": "Produkthandbuch"
@@ -2167,8 +2167,8 @@
                     },
                     "select_instance": {
                         "header": "OpenZWave Instanz auswählen",
-                        "introduction": "Sie haben mehr als eine OpenZWave-Instanz ausgeführt. Welche Instanz möchten Sie verwalten?",
-                        "none_found": "Wir haben keine OpenZWave-Instanz gefunden. Wenn Sie der Meinung sind, dass dies nicht korrekt ist, überprüfen Sie Ihre OpenZWave- und MQTT-Setups und stellen Sie sicher, dass der Home Assistant mit Ihrem MQTT-Broker kommunizieren kann."
+                        "introduction": "Du hast mehr als eine OpenZWave-Instanz ausgeführt. Welche Instanz möchtest du verwalten?",
+                        "none_found": "Wir haben keine OpenZWave-Instanz gefunden. Wenn du der Meinung bist, dass dies nicht korrekt ist, überprüfe deine OpenZWave- und MQTT-Setups und stelle sicher, dass der Home Assistant mit deinem MQTT-Broker kommunizieren kann."
                     },
                     "services": {
                         "add_node": "Knoten hinzufügen",
@@ -2185,7 +2185,7 @@
                     "description": "Personen verwalten, denen Home Assistant folgt.",
                     "detail": {
                         "admin": "Administrator",
-                        "allow_login": "Erlauben Sie dieser Person, sich einzuloggen.",
+                        "allow_login": "Erlaubst du dieser Person, sich einzuloggen.",
                         "confirm_delete_user": "Bist Du sicher, dass Du das Benutzerkonto von {name} löschen möchtest? Du kannst der Person immer noch folgen, aber sie kann sich nicht mehr anmelden.",
                         "create": "Erstellen",
                         "delete": "Löschen",
@@ -2201,7 +2201,7 @@
                         "no_device_tracker_available_intro": "Wenn du Geräte hast, die die Anwesenheit einer Person anzeigen, kannst du diese hier einer Person zuordnen. Du kannst dein erstes Gerät hinzufügen, indem du eine Integration zur Anwesenheitserkennung auf der Integrationsseite hinzufügst.",
                         "update": "Aktualisieren"
                     },
-                    "introduction": "Hier können Sie jede Person von Interesse in Home Assistant definieren.",
+                    "introduction": "Hier kannst du jede Person von Interesse in Home Assistant definieren.",
                     "learn_more": "Erfahre mehr über Person",
                     "no_persons_created_yet": "Sieht so aus, als hättest du noch keine Personen angelegt.",
                     "note_about_persons_configured_in_yaml": "Hinweis: Personen, die über configuration.yaml konfiguriert wurden, können nicht über die Benutzeroberfläche bearbeitet werden.",
@@ -2274,7 +2274,7 @@
                             "queued": "Länge der Warteschlange"
                         },
                         "modes": {
-                            "description": "Der Modus steuert, was passiert, wenn ein Skript aufgerufen wird, während es noch von einem oder mehreren vorherigen Aufrufen ausgeführt wird. Überprüfen Sie den {documentation_link} für weitere Informationen.",
+                            "description": "Der Modus steuert, was passiert, wenn ein Skript aufgerufen wird, während es noch von einem oder mehreren vorherigen Aufrufen ausgeführt wird. Überprüfen den {documentation_link} für weitere Informationen.",
                             "documentation": "Skript-Dokumentation",
                             "label": "Modus",
                             "parallel": "Parallel",
@@ -2353,7 +2353,7 @@
                         "validation": {
                             "check_config": "Konfiguration prüfen",
                             "heading": "Konfiguration überprüfen",
-                            "introduction": "Überprüfen Sie Ihre Konfiguration, wenn Sie kürzlich Änderungen vorgenommen haben und sicherstellen möchten, dass alle Änderungen gültig sind",
+                            "introduction": "Überprüfe deine Konfiguration, wenn du kürzlich Änderungen vorgenommen haben und sicherstellen möchtest, dass alle Änderungen gültig sind",
                             "invalid": "Konfiguration ungültig",
                             "valid": "Konfiguration in Ordnung"
                         }
@@ -2378,7 +2378,7 @@
                         "tag_id": "NFC Tag ID",
                         "tag_id_placeholder": "Automatisch generiert, wenn leer gelassen",
                         "update": "Aktualisieren",
-                        "usage": "Ein Tag kann eine Automatisierung auslösen, wenn er gescannt wird. Sie können NFC-Tags, QR-Codes oder jede andere Art von Tags verwenden. Verwenden Sie unsere {companion_link}, um diesen Tag in ein programmierbares NFC-Tag zu schreiben oder einen QR-Code zu erstellen."
+                        "usage": "Ein Tag kann eine Automatisierung auslösen, wenn er gescannt wird. Du kannst NFC-Tags, QR-Codes oder jede andere Art von Tags verwenden. Verwende unsere {companion_link}, um diesen Tag in ein programmierbares NFC-Tag zu schreiben oder einen QR-Code zu erstellen."
                     },
                     "edit": "Bearbeiten",
                     "headers": {
@@ -2441,7 +2441,7 @@
                     "add_device": "Gerät hinzufügen",
                     "add_device_page": {
                         "discovered_text": "Geräte werden hier angezeigt sobald sie erkannt worden sind.",
-                        "discovery_text": "Erkannte Geräte werden hier angezeigt. Befolgen Sie die Anweisungen für Ihr Gerät und versetzen Sie das Gerät in den Pairing-Modus.",
+                        "discovery_text": "Erkannte Geräte werden hier angezeigt. Befolge die Anweisungen für dein Gerät und versetze das Gerät in den Pairing-Modus.",
                         "header": "Zigbee Home Automation - Geräte hinzufügen",
                         "no_devices_found": "Es wurden keine Geräte erkannt. Stelle sicher, dass sie sich im Pairing-Modus befinden und halte sie aktiv, solange die Erkennung läuft.",
                         "pairing_mode": "Stelle sicher, dass sich deine Geräte im Pairing-Modus befinden. Überprüfe dazu die Anweisungen deines Geräts.",
@@ -2549,7 +2549,7 @@
                         "help_node_dropdown": "Wähle ein Gerät aus, um die Geräteoptionen anzuzeigen.",
                         "hint_battery_devices": "Hinweis: Schlafende (batteriebetriebene) Geräte müssen wach sein, wenn Befehle für sie ausgeführt werden. Ein schlafendes Gerät kann meist durch eine Aktion am Gerät aufgeweckt werden.",
                         "hint_wakeup": "Einige Geräte, z. B. Xiaomi-Sensoren, verfügen über eine Wecktaste, die in Intervallen von ~5 Sekunden gedrückt werden kann, um die Geräte wach zu halten, während mit ihnen interagiert wird.",
-                        "introduction": "ZHA-Befehle ausführen, die sich auf ein einzelnes Gerät auswirken. Wählen Sie ein Gerät aus, um eine Liste der verfügbaren Befehle anzuzeigen."
+                        "introduction": "ZHA-Befehle ausführen, die sich auf ein einzelnes Gerät auswirken. Wähle ein Gerät aus, um eine Liste der verfügbaren Befehle anzuzeigen."
                     },
                     "title": "Zigbee Home Automation",
                     "visualization": {
@@ -2643,7 +2643,7 @@
                     },
                     "ozw_log": {
                         "header": "OZW Log",
-                        "introduction": "Schauen Sie das Protokoll an. 0 ist das Minimum (lädt das gesamte Protokoll) und 1000 ist das Maximum. Beim Laden wird ein statisches Protokoll angezeigt und das Ende wird automatisch mit der zuletzt angegebenen Anzahl von Zeilen des Protokolls aktualisiert.",
+                        "introduction": "Schaue das Protokoll an. 0 ist das Minimum (lädt das gesamte Protokoll) und 1000 ist das Maximum. Beim Laden wird ein statisches Protokoll angezeigt und das Ende wird automatisch mit der zuletzt angegebenen Anzahl von Zeilen des Protokolls aktualisiert.",
                         "last_log_lines": "Anzahl der letzten Logzeilen",
                         "load": "Laden",
                         "tail": "Ende"
@@ -2779,10 +2779,10 @@
                     "yaml_unsupported": "Du kannst diese Funktion nicht verwenden, wenn du Lovelace im YAML-Modus verwendest."
                 },
                 "cards": {
-                    "confirm_delete": "Möchten Sie diese Karte wirklich löschen?",
+                    "confirm_delete": "Möchtest du diese Karte wirklich löschen?",
                     "empty_state": {
                         "go_to_integrations_page": "Gehe zur Integrationsseite.",
-                        "no_devices": "Auf dieser Seite können Sie Ihre Geräte steuern, es sieht jedoch so aus, als hätten Sie noch keine eingerichtet. Gehen Sie zur Integrationsseite, um damit zu beginnen.",
+                        "no_devices": "Auf dieser Seite kannst du deine Geräte steuern, es sieht jedoch so aus, als hättest du noch keine eingerichtet. Gehe zur Integrationsseite, um damit zu beginnen.",
                         "title": "Willkommen Zuhause"
                     },
                     "entities": {
@@ -2798,7 +2798,7 @@
                         "url": "Fenster zu {url_path} öffnen"
                     },
                     "safe-mode": {
-                        "description": "Home Assistant hatte beim Laden Ihrer Konfiguration Probleme und wird jetzt im abgesicherten Modus ausgeführt. Sieh Dir das Fehlerprotokoll an, um zu erkennen, was schiefgelaufen ist.",
+                        "description": "Home Assistant hatte beim Laden deiner Konfiguration Probleme und wird jetzt im abgesicherten Modus ausgeführt. Sieh Dir das Fehlerprotokoll an, um zu erkennen, was schiefgelaufen ist.",
                         "header": "Abgesicherter Modus aktiviert"
                     },
                     "shopping-list": {
@@ -2812,7 +2812,7 @@
                     }
                 },
                 "changed_toast": {
-                    "message": "Die Lovelace-Konfiguration wurde aktualisiert, möchten Sie sie aktualisieren?",
+                    "message": "Die Lovelace-Konfiguration wurde aktualisiert, möchtest du sie aktualisieren?",
                     "refresh": "Aktualisieren"
                 },
                 "editor": {
@@ -2833,7 +2833,7 @@
                     "card": {
                         "alarm-panel": {
                             "available_states": "Verfügbare Zustände",
-                            "description": "Mit der Alarmzentralen-Karte kannst du die Integrationen Ihrer Alarmzentrale aktivieren und deaktivieren.",
+                            "description": "Mit der Alarmzentralen-Karte kannst du die Integrationen deiner Alarmzentrale aktivieren und deaktivieren.",
                             "name": "Alarmpanel"
                         },
                         "button": {
@@ -2902,7 +2902,7 @@
                             "name": "Entität Filter"
                         },
                         "entity": {
-                            "description": "Mit der Entitätskarte erhältst du einen schnellen Überblick über den Status Ihrer Entität.",
+                            "description": "Mit der Entitätskarte erhältst du einen schnellen Überblick über den Status deiner Entität.",
                             "name": "Entität"
                         },
                         "gauge": {
@@ -2954,7 +2954,7 @@
                             "name": "Glance"
                         },
                         "grid": {
-                            "description": "Mit der Grid-Karte können Sie mehrere Karten in einem Raster anzeigen.",
+                            "description": "Mit der Grid-Karte kannst du mehrere Karten in einem Raster anzeigen.",
                             "name": "Raster"
                         },
                         "history-graph": {
@@ -3021,7 +3021,7 @@
                             "name": "Pflanzen Status"
                         },
                         "sensor": {
-                            "description": "Die Sensorkarte gibt dir einen schnellen Überblick über Ihren Sensorstatus mit einem optionalen Diagramm, um Änderungen im Zeitverlauf zu visualisieren.",
+                            "description": "Die Sensorkarte gibt dir einen schnellen Überblick über deinen Sensorstatus mit einem optionalen Diagramm, um Änderungen im Zeitverlauf zu visualisieren.",
                             "graph_detail": "Diagrammdetail",
                             "graph_type": "Typ",
                             "name": "Sensor",
@@ -3076,7 +3076,7 @@
                         "move_before": "Karte nach vorne verschieben",
                         "options": "Mehr Optionen",
                         "pick_card": "Karte auswählen, die hinzugefügt werden soll.",
-                        "pick_card_view_title": "Welche Karte möchten Sie Ihrer {name} -Ansicht hinzufügen?",
+                        "pick_card_view_title": "Welche Karte möchtest du deine {name} -Ansicht hinzufügen?",
                         "search_cards": "Karten suchen",
                         "show_code_editor": "Code-Editor anzeigen",
                         "show_visual_editor": "Visuellen Editor anzeigen",
@@ -3212,7 +3212,7 @@
                     "title": "Nicht verwendete Entitäten"
                 },
                 "views": {
-                    "confirm_delete": "Möchten Sie diese Ansicht wirklich löschen?",
+                    "confirm_delete": "Möchtest du diese Ansicht wirklich löschen?",
                     "confirm_delete_existing_cards": "Durch Löschen dieser Ansicht werden auch die Karten entfernt",
                     "confirm_delete_existing_cards_text": "Möchtest du deine Ansicht ''{name}'' wirklich löschen? Die Ansicht enthält {number} Karten, die gelöscht werden. Diese Aktion kann nicht rückgängig gemacht werden.",
                     "confirm_delete_text": "Möchtest du deine Ansicht ''{name}'' wirklich löschen?"
@@ -3228,12 +3228,12 @@
             "mailbox": {
                 "delete_button": "Löschen",
                 "delete_prompt": "Diese Nachricht löschen?",
-                "empty": "Sie haben keine Nachrichten",
+                "empty": "Du hast keine Nachrichten",
                 "playback_title": "Nachrichtenwiedergabe"
             },
             "page-authorize": {
                 "abort_intro": "Anmeldung abgebrochen",
-                "authorizing_client": "Sie sind dabei, {clientId} Zugriff auf Ihre Home Assistant-Instanz zu gewähren.",
+                "authorizing_client": "Du bist dabei, {clientId} Zugriff auf deine Home Assistant-Instanz zu gewähren.",
                 "form": {
                     "error": "Fehler: {error}",
                     "next": "Weiter",
@@ -3257,7 +3257,7 @@
                                     "data": {
                                         "code": "Zwei-Faktor Authentifizierungscode"
                                     },
-                                    "description": "Öffnen Sie das **{mfa_module_name}** auf Ihrem Gerät, um den 2-Faktor Authentifizierungscode zu sehen und Ihre Identität zu bestätigen:"
+                                    "description": "Öffne das **{mfa_module_name}** auf deinem Gerät, um den 2-Faktor Authentifizierungscode zu sehen und deine Identität zu bestätigen:"
                                 }
                             }
                         },
@@ -3280,7 +3280,7 @@
                                     "data": {
                                         "code": "Zwei-Faktor Authentifizierungscode"
                                     },
-                                    "description": "Öffnen Sie das **{mfa_module_name}** auf Ihrem Gerät, um den 2-Faktor Authentifizierungscode zu sehen und Ihre Identität zu bestätigen:"
+                                    "description": "Öffne das **{mfa_module_name}** auf deinem Gerät, um den 2-Faktor Authentifizierungscode zu sehen und deine Identität zu bestätigen:"
                                 }
                             }
                         },
@@ -3304,7 +3304,7 @@
                                     "data": {
                                         "code": "Zwei-Faktor Authentifizierungscode"
                                     },
-                                    "description": "Öffnen Sie das **{mfa_module_name}** auf Ihrem Gerät, um den 2-Faktor Authentifizierungscode zu sehen und Ihre Identität zu bestätigen:"
+                                    "description": "Öffne das **{mfa_module_name}** auf deinem Gerät, um den 2-Faktor Authentifizierungscode zu sehen und deine Identität zu bestätigen:"
                                 }
                             }
                         },
@@ -3335,7 +3335,7 @@
                 "cards": {
                     "demo": {
                         "demo_by": "von {name}",
-                        "introduction": "Willkommen zu Hause! Sie haben die Home Assistant-Demo erreicht, in der wir die besten Benutzeroberflächen unserer Community präsentieren.",
+                        "introduction": "Willkommen zu Hause! Du hast die Home Assistant-Demo erreicht, in der wir die besten Benutzeroberflächen unserer Community präsentieren.",
                         "learn_more": "Erfahre mehr über Home Assistant",
                         "next_demo": "Nächste Demo"
                     }
@@ -3379,8 +3379,8 @@
                 "core-config": {
                     "button_detect": "Erkennen",
                     "finish": "Weiter",
-                    "intro": "Hallo {name}, willkommen bei Home Assistant. Wie möchten Sie Ihre Haus benennen?",
-                    "intro_location": "Wir würden gerne wissen, wo Sie wohnen. Diese Daten helfen bei der Anzeige von Informationen und der Einrichtung von Sonnenstands-basierten Automatisierungen. Diese Daten werden niemals außerhalb Ihres Netzwerks weitergegeben.",
+                    "intro": "Hallo {name}, willkommen bei Home Assistant. Wie möchtest du dein Haus benennen?",
+                    "intro_location": "Wir würden gerne wissen, wo du wohnst. Diese Daten helfen bei der Anzeige von Informationen und der Einrichtung von Sonnenstands-basierten Automatisierungen. Diese Daten werden niemals außerhalb deines Netzwerks weitergegeben.",
                     "intro_location_detect": "Wir können helfen, diese Informationen auszufüllen, indem wir eine einmalige Anfrage an einen externen Dienstleister richten.",
                     "location_name": "Name deiner Home Assistant Installation",
                     "location_name_default": "Home"
@@ -3390,7 +3390,7 @@
                     "intro": "Geräte und Dienste werden in Home Assistant als Integrationen dargestellt. Sie können jetzt oder später über die Konfigurationsseite eingerichtet werden.",
                     "more_integrations": "Mehr"
                 },
-                "intro": "Sind Sie bereit, dein Zuhause zu wecken, Ihre Privatsphäre zurückzugewinnen und einer weltweiten Gemeinschaft von Tüftlern beizutreten?",
+                "intro": "Bist du bereit, dein Zuhause zu wecken, deine Privatsphäre zurückzugewinnen und einer weltweiten Gemeinschaft von Tüftlern beizutreten?",
                 "restore": {
                     "description": "Alternativ kannst du von einem vorherigen Snapshot wiederherstellen.",
                     "hide_log": "Vollständiges Log verstecken",
@@ -3458,14 +3458,14 @@
                 "logout_text": "Möchtest du dich wirklich abmelden?",
                 "logout_title": "Abmelden?",
                 "long_lived_access_tokens": {
-                    "confirm_delete": "Möchten Sie den Zugriffs-Token für {name} wirklich löschen?",
+                    "confirm_delete": "Möchtest du den Zugriffs-Token für {name} wirklich löschen?",
                     "create": "Token erstellen",
                     "create_failed": "Das Zugriffs-Token konnte nicht erstellt werden.",
                     "created": "Erstellt am {date}",
                     "created_at": "Erstellt am {date}",
                     "delete_failed": "Fehler beim Löschen des Zugriffs-Tokens.",
                     "description": "Erstelle langlebige Zugriffstoken, damit deine Skripte mit deiner Home Assistant-Instanz interagieren können. Jedes Token ist ab der Erstellung für 10 Jahre gültig. Die folgenden langlebigen Zugriffstoken sind derzeit aktiv.",
-                    "empty_state": "Sie haben noch keine langlebigen Zugangs-Token.",
+                    "empty_state": "Du hast noch keine langlebigen Zugangs-Token.",
                     "header": "Langlebige Zugangs-Token",
                     "last_used": "Zuletzt verwendet am {date} in {location}",
                     "learn_auth_requests": "Erfahre, wie du authentifizierte Anfragen stellen kannst.",
@@ -3504,7 +3504,7 @@
                     "created_at": "Erstellt am {date}",
                     "current_token_tooltip": "Aktueller Refresh-Token konnte nicht gelöscht werden",
                     "delete_failed": "Fehler beim Löschen das Aktualisierungs-Token.",
-                    "description": "Jedes Aktualisierungs-Token stellt eine Anmeldesitzung dar. Aktualisierungs-Token werden automatisch entfernt, wenn Sie Abmelden klicken. Die folgenden Aktualisierungs-Token sind derzeit für Ihr Konto aktiv.",
+                    "description": "Jedes Aktualisierungs-Token stellt eine Anmeldesitzung dar. Aktualisierungs-Token werden automatisch entfernt, wenn du Abmelden klicken. Die folgenden Aktualisierungs-Token sind derzeit für dein Konto aktiv.",
                     "header": "Aktualisierungs-Tokens",
                     "last_used": "Zuletzt verwendet am {date} in {location}",
                     "not_used": "Wurde noch nie benutzt",
